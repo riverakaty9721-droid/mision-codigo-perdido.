@@ -1,15 +1,7 @@
-# mision-codigo-perdido.
-# 🛡️ La Compañía del Código: Guerreros java
+# La Compañía del Código
+**Misión:** Ensamblar el Programa Supremo y derrotar al NullPointerException.
 
-## 📜 Nuestra Épica Misión
-Hemos sido convocados para adentrarnos en las profundidades del antiguo y estructurado Reino de Java. Nuestra misión es ensamblar el artefacto legendario conocido como el **Programa Supremo** y evitar que la oscuridad del temido *NullPointerException* devore nuestro mundo.
-
-A través de este Nexo Místico, uniremos nuestros dones únicos mediante el sagrado arte del control de versiones para evitar los destructivos Conflictos de Fusión y restaurar la paz.
-
-## 🧙‍♂️ Los Valientes Aventureros
-* **El Gran Arquitecto (Guardián del Repositorio):** Katherine Michelle Rivera Martinez
-* **El Invocador de Almas (Mago de las Clases):** Kenneth Olvaldo Zelaya 
-* **El Forjador de Artefactos (Técnico de Hechizos):** Melder Balmore Perla Gonzàlez 
-
----
-*¡Que el código compile siempre a nuestro favor!* 
+## Integrantes
+- Aventurero 1: [Tu nombre] — Gran Arquitecto
+- Aventurero 2: [Nombre compañero] — Invocador de Almas  
+- Aventurero 3: [Nombre compañero] — Forjador de Artefactos
